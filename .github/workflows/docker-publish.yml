@@ -7,7 +7,7 @@ on:
 
 env:
   DOCKER_HUB_USERNAME: marcozorita
-  DOCKER_HUB_REPOSITORY: actions
+  DOCKER_HUB_REPOSITORY: final1
   IMAGE_TAG: v1
 
 jobs:
