@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_HUB_USERNAME: mzorita
+  DOCKER_HUB_USERNAME: marcozorita
   DOCKER_HUB_REPOSITORY: actions
   IMAGE_TAG: v1
 
